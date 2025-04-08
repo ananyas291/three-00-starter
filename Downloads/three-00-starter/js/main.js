@@ -29,8 +29,8 @@ function init() {
         car.position.set(-1.5, -0.5, 0); 
         
         controls.target.set(0, 0, 0);
-        camera.position.set(0, 2, 5); 
-        controls.update();
+        camera.position.set(0, 1, 5); 
+        controls.update();  
 
 
     })
